@@ -1,0 +1,131 @@
+.over-line{
+    text-decoration: overline;
+    text-decoration-color: green;
+    
+}
+.Underline{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+.under-over{
+    text-decoration: overline,underline;
+    text-decoration-color: red;
+}
+.uppercase{text-transform: uppercase;}
+.lowercase{text-transform: lowercase;}
+.capitalize { text-transform: capitalize; }
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify
+}
+.firstfont{
+    font-family: 'Times New Roman', Times, serif;
+}
+.secondfont{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdfont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.size40{
+    font-style: normal;
+    font-size: 40px;
+}
+.size70{
+font-size: 70px;
+}
+.size20{
+font-size: 20px;
+}
+.first-opa{
+    background-color:rgb(0, 128, 0);
+    text-align: center;
+}
+.fourth-opa{
+    background-color:rgba(0, 128, 0,0.6);
+    text-align: center;
+}
+.third-opa{
+    background-color:rgba(0, 128, 0,0.3);
+    text-align: center;
+}
+
+.second-opa{
+    background-color:rgba(0, 128, 0,0.1);
+    text-align: center;
+}
+.color-head{
+    color:red
+}
+.green p{
+    color: green;
+}
+.backolor{
+background-color: aqua;
+text-align: center;
+}
+.shadow{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+.delete p{
+    color:red;
+    text-align: left;
+}
+.Underline2{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: yellow;
+}
+.Overflow-visible{
+    width: 100%;
+     background-color: lightgray;
+      border: 1px solid black; overflow: visible;
+}
+.Overflow-hidden{
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.Overflow-scroll{
+    border: 1px solid black;
+    overflow: scroll;
+    background-color:lightskyblue ;
+    height: 100px;
+}
+.Overflow-auto{
+overflow: auto;
+background-color: pink;
+height: 60px;
+}
+.Overflow-x-and-Overflow-y{
+
+     height: 100px;
+      background-color: lightgray;
+       border: 1px solid black;
+        overflow-x: scroll; 
+         overflow-y: hidden;
+}
+.Underline3{
+    color: green;
+    text-decoration: underline;
+}
+.last-div{
+    width: 400px;
+   
+     color: yellow;
+        overflow: scroll;
+        background-color:black ;
+        height: 100px;
+    
+}
+.over-img{color: red;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.img-opi{
+    opacity: 0.5;
+}

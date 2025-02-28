@@ -1,0 +1,232 @@
+.red{
+    color:red ;
+}
+.green{
+    color:green ;
+}
+.blue{
+    color:blue ;
+}
+.yellow{
+    color:yellow ;
+}
+.colors-fonts1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;}
+.colors-fonts2{
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+}
+.colors-fonts3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+}
+.colors-fonts4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indianred;
+}
+.colors-fonts5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+}
+.colors-fonts6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.head{
+    background-color: blue;
+    color:yellow;
+    padding: 10px;
+    text-align: center;
+}
+.head-2{
+    background-color: blue;
+    color: white;
+    margin-bottom: 10px;
+}
+.background{
+    background-image: url(../img/images.jpg);
+    padding: 10px;
+}
+.background-repeat{
+    background-image: url(../img/image2.jpg);
+    background-repeat: repeat-y;
+    height: 200px;
+   
+}
+.colorhead{
+    color: cadetblue;
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+.backgroundcolor{
+    width: 100%;
+    background-color: aquamarine;
+    height: 450px;
+
+}
+.first-pa{
+    background-color: bisque;
+    color: red;
+    width: 90%;
+    margin: auto;
+height: auto;
+height: 100px;
+}
+.second-pa{
+    background-image: url(../img/calm-weather-on-sea-ocean-600nw-2212935531.webp);
+    width: 90%;
+    margin: auto;
+    height: 100px;
+}
+.third-pa{
+    color: white;
+    margin: auto;
+    width: 90%;
+    height: 100px;
+    background-image: url(../img/pexels-photo-949587.webp);
+}
+.css-selector{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkgreen ;
+}
+.I-am-a-class-selector{
+color: aqua;
+
+}
+.p-i-am{
+    background-color:aqua ;
+    color: darkgoldenrod;
+}
+.color-p1{
+    background-color: aquamarine;
+}
+.p-i-am1{
+   
+    color: red;
+}
+.p-blue{
+    color: blue;
+}
+.color-p2{background-color: lightcoral;
+text-align: center;}
+.p-i-am2{
+    color: white;
+  
+}
+.item1{
+    background-color: lightskyblue;
+    color: white;
+    height: 30px;
+    padding: 10px;   
+}
+.item2{
+    padding: 10px; 
+    height: 30px; 
+}
+.item5{
+    background-color: lightpink;
+    height: 30px;
+    color: white;
+    padding: 10px;  
+}
+.item7{
+    background-color: orange;
+    height: 30px;
+    color: white;
+    padding: 10px;  
+}
+/* .big-div{
+    border: 3px solid ;
+    border-color: aqua ;
+    background-color: burlywood;
+}
+.header-form{
+    color: white;
+    text-align: center;
+   width: 400px;
+    background-color: chocolate;
+    height: 60px;
+    padding: 30px ;
+    margin: 10px;
+    
+}
+p.one {
+  border-style: solid;
+  border-color: red green blue yellow; /* red top, green right, blue bottom and yellow left */
+
+/* input,textarea{
+width: 100%;
+    padding: 10px;
+    margin: 10px;
+    height: 30px;
+}  */
+.split-background{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(10deg,#1f1f7a 0%,#80005a 50%,#d4ff00 50%,#05c605 100%);
+}
+table{
+    border: 1px solid black;
+    border-collapse: separate;
+  
+   } 
+   td{
+    border: 1.5px solid black;
+    padding: 7px;
+    background-color: cyan;
+   } 
+   th{
+    color: red;
+    padding: 7px;
+    background-color: darkkhaki;
+   }
+   button{
+    width: 150px;
+    height: 50px;
+  }
+  .background-repeat1{
+    background-image: url(../img/images.jpg);
+    background-repeat: repeat-y;
+    height: 200px;
+ 
+   
+}
+  .background-repeat2{
+    background-image: url(../img/download.jpg);
+    background-repeat:repeat-x;
+    width: 100%;
+    display: flex;
+    justify-content:flex-start;
+
+   
+}
+.cat-photo{
+    color: red;
+
+}
+.img-cat{
+    border: 5px solid darkgreen;
+    border-radius: 50%;
+    width: 100px;
+}
+.containor-cat{
+    background-color: gray;
+}
+.after-cat{
+    background-color: darkgreen;
+}
+.yellow-box{
+    background-color: bisque;
+}
+.span{
+    background-color: red;
+}
